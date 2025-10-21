@@ -121,11 +121,6 @@ Procesando: _DSC6671.NEF
 
 GPL v2 - Eres libre de usar, modificar y distribuir este software bajo los términos de la Licencia Pública General GNU versión 2.
 
-## Autor
-
-Santos R. Guerra F.
-URL: santosguerra.com
-
 ## Notas
 
 - Las librerías fallan silenciosamente si no pueden leer un formato específico
